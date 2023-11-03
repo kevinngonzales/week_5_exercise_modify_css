@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#example2 {
+  font-size: 56px;
+}
+
+.example3 {
+ color: red;
+}
+
+#example6 {
+  display: none;
+}
+
+.example7 {
+  color: green;
+}
